@@ -6,7 +6,7 @@ The ReadMe Generator is a command-line application designed to streamline the pr
 
 1. Clone the repository: 
 
-  :git clone https://github.com/keybit-1/readme-generator.git
+  :git clone https://github.com/keybit-1/Readme.md-Generator.git
 
 
 2. Navigate to the project directory:
@@ -26,6 +26,8 @@ The ReadMe Generator is a command-line application designed to streamline the pr
 5. The application will start prompting you for information related to your project. Answer each question as per your project details.
 
 6. Once you've answered all the questions, the application will generate a README.md file based on your input and save it in the root directory of the project as `README.md`.
+
+7. Here is a quick video demostrating this application: https://youtu.be/jTwTdnW0otw
 
 ## User Input
 

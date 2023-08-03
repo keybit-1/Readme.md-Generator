@@ -1,8 +1,8 @@
 
-# README.md Generator
+# Readme.md generator
 
 ## Description
-Creates README.md files from thin air.
+generates readme.md files
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,7 +13,7 @@ Creates README.md files from thin air.
 - [Questions](#questions)
 
 ## Installation
-Clone repo and run (node index.js) in the integrated terminal.
+N/A
 
 ## Usage
 N/A
