@@ -6,21 +6,21 @@ The ReadMe Generator is a command-line application designed to streamline the pr
 
 1. Clone the repository: 
 
-  :git clone https://github.com/keybit-1/Readme.md-Generator.git
+  `git clone` https://github.com/keybit-1/Readme.md-Generator.git
 
 
 2. Navigate to the project directory:
 
-  :cd readme-generator
+  `cd readme-generator`
 
 3. Install the required packages:
 
-  :npm install
+  `npm install`
 
 
 4. Run the application:
 
-  :node index.js
+  `node index.js`
 
 
 5. The application will start prompting you for information related to your project. Answer each question as per your project details.
